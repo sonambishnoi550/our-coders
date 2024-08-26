@@ -83,4 +83,11 @@
     .main-heading{
         font-size: 34px;
     }
+   
+}
+@media(max-width:576px){
+    .sm-justify-content-center {
+            justify-content: center;
+    }
+   
 }
